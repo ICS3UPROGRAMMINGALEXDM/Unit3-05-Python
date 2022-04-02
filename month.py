@@ -5,7 +5,7 @@
 # Description: uses a switch case workaraound to display strings that
 # correspond with the user's number
 import colorama
-from colorama import Fore, Back, Style
+from colorama import Back, Fore, Style
 
 
 def switch_month(month):
